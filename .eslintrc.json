@@ -13,6 +13,5 @@
     "node": true
   },
   "rules": {
-    "no-console": "error"
   }
 }
